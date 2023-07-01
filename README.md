@@ -1,2 +1,2 @@
-# blikit-clone
-This is a Blinit Clone Website made by using HTML and CSS
+# blinkit-clone
+This is a Blinkit Clone Website made by using HTML and CSS
